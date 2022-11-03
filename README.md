@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Vinicius de Morais, Estou indo Rumo ao Full Stack.<br />
-  Desenvolvedor React Native, Node JS, React JS
+  Desenvolvedor React Native, Node JS, React JS, PHP
   
 </p>
 
