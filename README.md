@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Vinicius de Morais, Estou indo Rumo ao Full Stack.<br />
-  Desenvolvedor React Native, Node JS, React JS, PHP
+  Desenvolvedor Full Stack
+  Node JS, React JS,React Native, PHP
   
 </p>
 
