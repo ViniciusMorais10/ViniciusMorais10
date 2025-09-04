@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# 👋 Olá, eu sou o Vinicius Morais
+# 👋 Olá, eu sou o Vinicius de Morais
 
 💻 **Backend Engineer** focado em desenvolvimento de **SaaS** e **APIs escaláveis**.  
 🚀 Experiência com **NestJS, Node.js, PostgreSQL, Prisma, Docker e CI/CD**.  
